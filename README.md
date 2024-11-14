@@ -13,7 +13,7 @@ Course: [Django Application Development with SQL and Databases](https://www.cour
 ## Overview
 This is the practice project of the Django Application Development with SQL and Databases course. The Customer360 application is a Django-based project designed to consolidate customer communication records in a single, centralized location. This application allows your organization to store and manage customer interactions efficiently, including capturing communication records and displaying recent interactions. The app supports professional customer management by providing insights into interactions from the last 30 days.
 
-## Screenshots
+## Demo
 ![Demo](./demo.gif)
 
 ## Project Features
